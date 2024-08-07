@@ -33,7 +33,7 @@ By specifying which software’s the crew uses, it will be easier to teach, comm
 - Audio Editing: [Reaper](https://www.reaper.fm)
 - Video Editing: Adobe Premier Pro
 - Photo Editing: [Darktable](https://darktable.org)
-- Media Playback: [QLab](https://www.qlab.app)
+- Media Playback: [QLab](https://qlab.app)
 - Live Streaming: [OBS](https://www.obsproject.com)
 - AV Networking: [Dante Controller, Dante Virtual Sound Card, Dante Via](https://www.audinate.com)
 ## Naming Folders and Files
