@@ -2,9 +2,9 @@
 ## info
 [Overview](overview.md)
 
-[Syllabus](nmutdav/guidebook/syllabus.md)
+[Syllabus](syllabus.md)
 
-[Standards of Practice](nmutdav/guidebook/standardsofpractice.md)
+[Standards of Practice](standardsofpractice.md)
 
 ## roles
 
