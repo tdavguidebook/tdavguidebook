@@ -42,67 +42,69 @@ By specifying which software’s the crew uses, it will be easier to teach, comm
 2. Example: `240803 NMU Grease`
 **Subfolder**
 1. Format: `[00] [Area]`
-2. Example: `01 Audio`, `02 Media`, `03 Video`, etc.
-01 Audio_subFol
-02 Media
-etc.
-Files
-Imports: `[YYMMDD] NMU [Event]_RAW.[ext]`
-Example: `240803 NMU Grease_RAW.mp4`
-Deliverables:  `[YYMMDD] NMU [Event]_MAS.[ext]`
-Example: `240803 NMU Grease_MAS.mp4`
-Recording Formats
-Audio
-Format: WAV
-Sample Rate: 48 kHz
-Bit Depth: 24-bit
-Video
-Format: MP4, MOV
-Resolution: 1920 x 1080
-Frame Rate: 30 or 60 FPS
-Photo
-Capture:
-Format: RAW; Examples: NEF (Nikon), CR2 (Canon), BRAW (Black Magic Design)
-Color Space: Standard RGB
-Deliverables:
-Format: JPEG (.jpeg)
-Ratio: (35 mm) 3:2 or 2:3, reformat later if 16:9 is desired for a video display.
-Live Stream Settings
-Resolution: 1920 x 1080 (1080p)
-Frame Rate: 30 or 60 FPS
-Video Bitrate: 4500 – 6000 kbps
-Encoder: NVENC (GPU)
-Audio Bitrate: 128 or 192 kbps
-Audio Sample Rate: 48 kHz
-Labeling Equipment
+2. Examples: `01 Audio`, `02 Media`, `03 Video`, etc.
+**Files**
+*Imports:*
+1. Format: `[YYMMDD] NMU [Event]_RAW.[ext]`
+2. Example: `240803 NMU Grease_RAW.mp4`
+
+*Deliverables:* 
+1. Format: `[YYMMDD] NMU [Event]_MAS.[ext]`
+2. Example: `240803 NMU Grease_MAS.mp4`
+
+## Recording Formats
+### Audio
+- Format: WAV
+- Sample Rate: 48 kHz
+- Bit Depth: 24-bit
+### Video
+- Format: MP4, MOV
+- Resolution: 1920 x 1080
+- Frame Rate: 30 or 60 FPS
+### Photo
+*Capture:*
+- Format: RAW ie. NEF (Nikon), CR2 (Canon), BRAW (Black Magic Design)
+- Color Space: Standard RGB
+*Deliverables:*
+1. Format: JPEG (.jpeg)
+2. Ratio: (35 mm) 3:2 or 2:3, reformat later if 16:9 is desired for a video display.
+## Live Stream Settings
+1. Resolution: 1920 x 1080 (1080p)
+2. Frame Rate: 30 or 60 FPS
+3. Video Bitrate: 4500 – 6000 kbps
+4. Encoder: NVENC (GPU)
+5. Audio Bitrate: 128 or 192 kbps
+6. Audio Sample Rate: 48 kHz
+
+## Labeling Equipment
 Labeling AV equipment in a theatre is crucial for efficient operation and troubleshooting. Clear labels ensure that crew members can quickly identify and connect equipment, minimizing setup time and reducing the risk of errors. Accurate labeling also facilitates easier maintenance and repairs, as well as effective communication among team members. By using a consistent labeling system, the theatre can maintain an organized and functional AV environment, leading to smoother productions and fewer technical disruptions.
-General Hardware
- Label Format:
-Category: Indicates the type of equipment (e.g., `LIGHT`, `MIC`, `STAGE`).
-Identifier: Unique number or name (e.g., `01`, `A`, `B1`).
-Location/Use: Specifies the equipment’s typical location or primary use (e.g., `FOH` for Front of House, `GR` for Green Room).
-Label Placement:
- Equipment: Affix labels in a visible, consistent location on each item.
-  Racks/Cases: Label the outside of racks or cases clearly.
-Labeling Materials:
- Use durable, adhesive labels or tags designed for various surfaces.
- Ensure labels are large enough to be easily readable and securely attached.
-Documentation:
-Maintain an inventory list or diagram showing the labeled equipment and its purpose or location.
-Ethernet Cables
-Label Format:
-Prefix: Site/Building identifier (e.g., `B1`, `C3`)
-Rack/Panel: Rack number or panel (e.g., `R1`, `P2`)
-Port Number: Port or outlet number (e.g., `Port 12`)
-Cable Identifier: Cable number or ID (e.g., `C03`)
-Label Placement: Cable Ends: Label both ends of the cable.
-Patch Panels: Label each port on the patch panel.
-Switches: Label switch ports according to the corresponding patch panel and port.
-Labeling Materials: 
-Use durable, adhesive labels designed for network cables.
-Ensure labels are clear and legible.
-Documentation: Maintain a network diagram and cable inventory for reference.
-Audio Cables
+### General Hardware
+1. Label Format:
+ - Category: Indicates the type of equipment (e.g., `LIGHT`, `MIC`, `STAGE`).
+ - Identifier: Unique number or name (e.g., `01`, `A`, `B1`).
+ - Location/Use: Specifies the equipment’s typical location or primary use (e.g., `FOH` for Front of House, `GR` for Green Room).
+2. Label Placement:
+  - Equipment: Affix labels in a visible, consistent location on each item.
+  - Racks/Cases: Label the outside of racks or cases clearly.
+3. Labeling Materials:
+ - Use durable, adhesive labels or tags designed for various surfaces.
+ - Ensure labels are large enough to be easily readable and securely attached.
+4. Documentation: Maintain an inventory list or diagram showing the labeled equipment and its purpose or location.
+### Ethernet Cables
+1. Label Format:
+   - Prefix: Site/Building identifier (e.g., `B1`, `C3`)
+   - Rack/Panel: Rack number or panel (e.g., `R1`, `P2`)
+   - Port Number: Port or outlet number (e.g., `Port 12`)
+   - Cable Identifier: Cable number or ID (e.g., `C03`)
+2. Label Placement:
+   - Cable Ends: Label both ends of the cable.
+   - Patch Panels: Label each port on the patch panel.
+   - Switches: Label switch ports according to the corresponding patch panel and port.
+3. Labeling Materials:
+   - Use durable, adhesive labels designed for network cables.
+   - Ensure labels are clear and legible.
+4. Documentation: Maintain a network diagram and cable inventory for reference.
+### Audio Cables
 Label Format:
 Prefix: Indicates the type of connection or equipment (e.g., `MIX` for mixer, `AMP` for amplifier).
 Cable Number: Unique identifier for each cable (e.g., `01`, `02`).
