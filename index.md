@@ -1,6 +1,6 @@
 # index
 ## info
-[Overview](nmutdav/guidebook/overview.md)
+[Overview](overview.md)
 
 [Syllabus](nmutdav/guidebook/syllabus.md)
 
