@@ -123,6 +123,6 @@ Labeling AV equipment in a theatre is crucial for efficient operation and troubl
 ## Digital Storage Infrastructure
 This is how we will store our files for pre- and post-production. This format ensures that files are easily accessible through a basic search query according to date, event, and file type. Additionally, this format follows the workflow allowing for users to graduate from one step to the next while reserving backups, naturally.
 ### Pre-Production Folder Structure
-! [Alt text](https://docs.google.com/drawings/d/e/2PACX-1vR35R6WnAMS0X59i05iDxUCdO62SpNklshe1BTSi2g5f9k160vbkGcYgx7c-SgRUK0GwMlSkNna6su6/pub?w=1440&h=1080)
+![Alt text](https://docs.google.com/drawings/d/e/2PACX-1vR35R6WnAMS0X59i05iDxUCdO62SpNklshe1BTSi2g5f9k160vbkGcYgx7c-SgRUK0GwMlSkNna6su6/pub?w=1440&h=1080)
 ### Post-Production Folder Structure
 ![Alt text](https://docs.google.com/drawings/d/e/2PACX-1vTeilNV_mOZg6UDFJ3j_MHhZwrl-sNiWaNaSOLGFHyJg7AG0BTYH9EGiAHzTjla2aKtDt3veVRmil78/pub?w=1440&h=1080)
