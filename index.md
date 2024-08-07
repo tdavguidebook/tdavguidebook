@@ -4,7 +4,7 @@
 
 [Syllabus](syllabus.md)
 
-[Standards of Practice](standardsofpractice.md)
+[Standards of Practice](standardsOfPractice.md)
 
 ## roles
 
