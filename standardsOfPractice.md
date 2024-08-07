@@ -40,6 +40,7 @@ By specifying which software’s the crew uses, it will be easier to teach, comm
 **Master Folder**
 1. Format: `[YYMMDD] NMU [Event]`
 2. Example: `240803 NMU Grease`
+
 **Subfolder**
 1. Format: `[00] [Area]`
 2. Examples: `01 Audio`, `02 Media`, `03 Video`, etc.
