@@ -30,12 +30,12 @@ Work break regulations are essential in theatre to keep the crew healthy and pro
 It is impertinent to take into consideration crew’s commute times when scheduling their hours. If a crew member must commute 30 minutes or more, it is ideal that they either go home after a shift, or stay for the whole day.
 ## Crew Software
 By specifying which software’s the crew uses, it will be easier to teach, communicate, and troubleshoot/avoid any format discrepancies. The Sound & Media Supervisor will remind crew members to keep their software up to date and should forward any notifications regarding software updates or additions. It is also ideal if incoming clients are aware of what software and versions we use, so they may prepare their materials accordingly.
-- Audio Editing: Reaper
-- Video Editing: Adobe Premiere Pro
-- Photo Editing: Adobe Lightroom
-- Media Playback: QLab
-- Live Streaming: OBS Studio
-- AV Networking: Dante Controller, Dante Virtual Sound Card, Dante Via
+- Audio Editing: [Reaper](reaper.fm)
+- Video Editing: Adobe Premier Pro
+- Photo Editing: [Darktable](darktable.org)
+- Media Playback: [QLab](qlab.app)
+- Live Streaming: [OBS](obsproject.com)
+- AV Networking: [Dante Controller, Dante Virtual Sound Card, Dante Via](audinate.com)
 ## Naming Folders and Files
 **Master Folder**
 1. Format: `[YYMMDD] NMU [Event]`
