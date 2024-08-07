@@ -1,31 +1,32 @@
-Communication
+#Standards of Practice
+## Communication
 Effective communication is essential for the proper and safe execution of duties. All communication between students and staff must be prompt and professional. Accommodations will be made if students wish to keep their contact information private from the team, but it is ideal if the Sound & Media Supervisor and the Crew Lead have everyone’s contact information.
- Verbal – Self-explanatory
-Phone Call/Text Message – Ideal for checking on team members if they are late or need immediate updates on production information.
-Clear Com – During a production, team members will use a wireless intercom on the RF channel according to their roles.
-Group Instant Message – For students to ask questions to the entire team, ranging from event information to requests for assistance with course material and duties.
-University Email – For sending schedules, performance reports, course materials, and production information. Emails will generally be sent in the mornings; responses are not expected to be as immediate as with the above instant messaging formats.
+- Verbal – Self-explanatory
+- Phone Call/Text Message – Ideal for checking on team members if they are late or need immediate updates on production information.
+- Clear Com – During a production, team members will use a wireless intercom on the RF channel according to their roles.
+- Group Instant Message – For students to ask questions to the entire team, ranging from event information to requests for assistance with course material and duties.
+- University Email – For sending schedules, performance reports, course materials, and production information. Emails will generally be sent in the mornings; responses are not expected to be as immediate as with the above instant messaging formats.
 As crew sizes increase and roles become more specialized, communication between team members should be more localized and independent. This approach allows everyone to focus on their tasks with minimal confusion caused by conflicting opinions or misunderstood directions. I.e. a Stage Hand setting up microphones will refer to the Audio Technician’s instructions prior to asking the Audio Engineer, and will certainly not refer to the Press Manager for directions since their tasks and priorities lie with the Post Production Team. The TDAV Crew diagram is a good way to visualize this flow of communication.
-Ladder Saftey Training
+# Ladder Saftey Training
 All students are required to complete the following online courses from the American Ladder Institute and send a certificate of completion to the course instructor by the assigned due date:
-Step Ladder Safety Training
-Single Ladders & Extension Ladders
-Articulated Ladders
-Mobile Ladder Stands & Mobile Ladder Stand Platforms
-Additionally, all TDAV crew should take Fall Protection Class and Mobile Lift Training provided by the university.
-Scheduled Breaks
+1. Step Ladder Safety Training
+2. Single Ladders & Extension Ladders
+3. Articulated Ladders
+4. Mobile Ladder Stands & Mobile Ladder Stand Platforms
+*Additionally, all TDAV crew should take Fall Protection Class and Mobile Lift Training provided by the university.*
+## Scheduled Breaks
 Work break regulations are essential in theatre to keep the crew healthy and productive during long hours. Regular breaks help prevent fatigue and reduce stress. It's recommended to schedule short breaks every two hours and a longer meal break. Providing rest areas and ensuring everyone takes their breaks can improve energy levels and keep the team working well together. Union rules often stipulate that crew members are entitled to 10-minute break every two hours and a minimum 30-minute meal break for every 5 hours worked. These regulations are designed to ensure that crew members have adequate time to rest and recharge, promoting overall health and productivity. Adhering to these guidelines helps prevent burnout and supports a safer, more efficient work environment in theatre production.
 Union Rules: 2 Hours Work = 10-minute break 5 Hours Work = 30-Minute Break
 Suggestion: 2 Hours Work = 20-minute Break 5 Hours Work = 1-hour break
 It is impertinent to take into consideration crew’s commute times when scheduling their hours. If a crew member must commute 30 minutes or more, it is ideal that they either go home after a shift, or stay for the whole day.
-Software
+## Crew Software
 By specifying which software’s the crew uses, it will be easier to teach, communicate, and troubleshoot/avoid any format discrepancies. The Sound & Media Supervisor will remind crew members to keep their software up to date and should forward any notifications regarding software updates or additions. It is also ideal if incoming clients are aware of what software and versions we use, so they may prepare their materials accordingly.
-Audio Editing: Reaper
-Video Editing: Adobe Premiere Pro
-Photo Editing: Adobe Lightroom
-Media Playback: QLab
-Live Streaming: OBS Studio
-AV Networking: Dante Controller, Dante Virtual Sound Card, Dante Via
+- Audio Editing: Reaper
+- Video Editing: Adobe Premiere Pro
+- Photo Editing: Adobe Lightroom
+- Media Playback: QLab
+- Live Streaming: OBS Studio
+- AV Networking: Dante Controller, Dante Virtual Sound Card, Dante Via
 Naming Folders and Files
 Master Folder
 Format: [YYMMDD] NMU [Event]'
