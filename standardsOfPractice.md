@@ -106,19 +106,23 @@ Labeling AV equipment in a theatre is crucial for efficient operation and troubl
    - Ensure labels are clear and legible.
 4. Documentation: Maintain a network diagram and cable inventory for reference.
 ### Audio Cables
-Label Format:
-Prefix: Indicates the type of connection or equipment (e.g., `MIX` for mixer, `AMP` for amplifier).
-Cable Number: Unique identifier for each cable (e.g., `01`, `02`).
-Source/Destination: Describes where the cable connects (e.g., `MIC1` for Microphone 1, `SPKR` for Speaker).
-Port/Channel: Specifies the port or channel number (e.g., `CH1`, `OUT2`).
-Label Placement:
-Cable Ends: Label both ends of the cable.
-Cable Sleeves: Use cable sleeves or tags for easy identification.
-Labeling Materials:
-Use durable, adhesive labels or cable tags designed for audio equipment.
-Ensure labels are clear, legible, and securely attached.
-Documentation:
-Maintain a diagram or list of cable assignments and connections.
-Digital Storage Infrastructure
+1. Label Format:
+   - Prefix: Indicates the type of connection or equipment (e.g., `MIX` for mixer, `AMP` for amplifier).
+   - Cable Number: Unique identifier for each cable (e.g., `01`, `02`).
+   - Source/Destination: Describes where the cable connects (e.g., `MIC1` for Microphone 1, `SPKR` for Speaker).
+   - Port/Channel: Specifies the port or channel number (e.g., `CH1`, `OUT2`).
+2. Label Placement:
+   - Cable Ends: Label both ends of the cable.
+   - Cable Sleeves: Use cable sleeves or tags for easy identification.
+3. Labeling Materials:
+   - Use durable, adhesive labels or cable tags designed for audio equipment.
+   - Ensure labels are clear, legible, and securely attached.
+4. Documentation:
+   - Maintain a diagram or list of cable assignments and connections.
+
+## Digital Storage Infrastructure
 This is how we will store our files for pre- and post-production. This format ensures that files are easily accessible through a basic search query according to date, event, and file type. Additionally, this format follows the workflow allowing for users to graduate from one step to the next while reserving backups, naturally.
-![Alt text](https://docs.google.com/drawings/d/e/2PACX-1vTeilNV_mOZg6UDFJ3j_MHhZwrl-sNiWaNaSOLGFHyJg7AG0BTYH9EGiAHzTjla2aKtDt3veVRmil78/pub?w=960&h=720)
+### Pre-Production Folder Structure
+! [Alt text](https://docs.google.com/drawings/d/e/2PACX-1vR35R6WnAMS0X59i05iDxUCdO62SpNklshe1BTSi2g5f9k160vbkGcYgx7c-SgRUK0GwMlSkNna6su6/pub?w=1440&h=1080)
+### Post-Production Folder Structure
+![Alt text](https://docs.google.com/drawings/d/e/2PACX-1vTeilNV_mOZg6UDFJ3j_MHhZwrl-sNiWaNaSOLGFHyJg7AG0BTYH9EGiAHzTjla2aKtDt3veVRmil78/pub?w=1440&h=1080)
