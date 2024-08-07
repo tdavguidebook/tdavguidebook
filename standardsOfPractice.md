@@ -31,7 +31,7 @@ It is impertinent to take into consideration crew’s commute times when schedul
 ## Crew Software
 By specifying which software’s the crew uses, it will be easier to teach, communicate, and troubleshoot/avoid any format discrepancies. The Sound & Media Supervisor will remind crew members to keep their software up to date and should forward any notifications regarding software updates or additions. It is also ideal if incoming clients are aware of what software and versions we use, so they may prepare their materials accordingly.
 - Audio Editing: [Reaper](https://www.reaper.fm)
-- Video Editing: Adobe Premier Pro
+- Video Editing: [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - Photo Editing: [Darktable](https://darktable.org)
 - Media Playback: [QLab](https://qlab.app)
 - Live Streaming: [OBS](https://www.obsproject.com)
@@ -118,3 +118,4 @@ Documentation:
 Maintain a diagram or list of cable assignments and connections.
 Digital Storage Infrastructure
 This is how we will store our files for pre- and post-production. This format ensures that files are easily accessible through a basic search query according to date, event, and file type. Additionally, this format follows the workflow allowing for users to graduate from one step to the next while reserving backups, naturally.
+![Alt text](https://docs.google.com/drawings/d/e/2PACX-1vTeilNV_mOZg6UDFJ3j_MHhZwrl-sNiWaNaSOLGFHyJg7AG0BTYH9EGiAHzTjla2aKtDt3veVRmil78/pub?w=960&h=720)
