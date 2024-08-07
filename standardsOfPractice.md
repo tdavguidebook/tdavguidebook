@@ -65,6 +65,7 @@ By specifying which software’s the crew uses, it will be easier to teach, comm
 *Capture:*
 - Format: RAW ie. NEF (Nikon), CR2 (Canon), BRAW (Black Magic Design)
 - Color Space: Standard RGB
+
 *Deliverables:*
 1. Format: JPEG (.jpeg)
 2. Ratio: (35 mm) 3:2 or 2:3, reformat later if 16:9 is desired for a video display.
