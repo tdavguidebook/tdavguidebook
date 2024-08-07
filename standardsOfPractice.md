@@ -43,7 +43,9 @@ By specifying which software’s the crew uses, it will be easier to teach, comm
 **Subfolder**
 1. Format: `[00] [Area]`
 2. Examples: `01 Audio`, `02 Media`, `03 Video`, etc.
+
 **Files**
+
 *Imports:*
 1. Format: `[YYMMDD] NMU [Event]_RAW.[ext]`
 2. Example: `240803 NMU Grease_RAW.mp4`
