@@ -27,5 +27,3 @@ Course grading is based on the performance of AV duties during assigned theatre 
 - [Frame.io](https://www.frame.io)
 - [FreeSound.org](https://www.freesound.org)
 - [Pixiset.com](https://www.pixiset.com)
-
-*end of page*
