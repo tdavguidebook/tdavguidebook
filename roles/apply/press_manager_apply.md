@@ -1,5 +1,5 @@
-[return to press manager](../admin/press_manager.md)
-[return to index](../../index.md)
+- [return to press manager](../admin/press_manager.md)
+- [return to index](../../index.md)
 # Press Manager Application
 
 **Position Summary:**

@@ -1,5 +1,5 @@
-[return to crew lead](../admin/crew_lead.md)
-[return to index](../../index.md)
+- [return to crew lead](../admin/crew_lead.md)
+- [return to index](../../index.md)
 # Crew Lead Application
 
 **Position Summary:**
