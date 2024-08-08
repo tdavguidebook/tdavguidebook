@@ -60,5 +60,5 @@ Learning to mic a drum kit is a great place to start learning the various microp
 1. **Testing**: If available, have the drummer play the kit and adjust microphone positions and gain levels on the console. Otherwise, have a member of the TDAV Crew test the kit while the engineer adjusts mix settings. (Refer to Workflow 3.1.3)
 
 <div style="background-color: white; padding: 10px; display: inline-block;">
-  <img src="https://via.placeholder.com/150](https://pubs2-images.prod.shureweb.eu/proxy/graphics/f_1c4353f4-5aac-4c27-84f1-f9b93d826bf6-ENG.png" alt="Example Image" style="display: block;">
+  <img src="https://pubs2-images.prod.shureweb.eu/proxy/graphics/f_1c4353f4-5aac-4c27-84f1-f9b93d826bf6-ENG.png" alt="Example Image" style="display: block;">
 </div>
