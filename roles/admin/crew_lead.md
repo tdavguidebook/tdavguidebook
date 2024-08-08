@@ -1,6 +1,6 @@
 # Crew Lead
 
-[Apply for this position](apply)
+[Apply for this position]
 
 ## Overview
 
