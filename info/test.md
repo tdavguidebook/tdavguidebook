@@ -1,1 +1,1 @@
-![Alt_text](./assets/xlr_icon.png)
+![Alt_text](../assets/xlr_icon.png)
