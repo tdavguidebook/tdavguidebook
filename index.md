@@ -1,6 +1,7 @@
 # Index
 ## Info
 - [Overview](info/overview.md)
+  *- [introduction](info/overview.md#introduction)*
 - [Syllabus](info/syllabus.md)
 - [Standards of Practice](info/standardsOfPractice.md)
 ## Roles
