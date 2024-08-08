@@ -1,5 +1,5 @@
 # The TDAV Crew
-![Alt_text](../assets/tdavcrew_diagram.jpg)
+![Alt_text](../assets/tdav_crew.jpg)
 
 ## Academic Role Flexibility
 
