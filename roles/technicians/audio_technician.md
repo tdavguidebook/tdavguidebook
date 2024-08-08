@@ -6,6 +6,7 @@ Assists the A1 engineer by handling microphones, setting up and managing audio e
 ## Location
 - Front of House
 - Stage
+- A2 station in Greenroom
 
 ## Equipment
 - **Microphones**: Lavalier, handheld, shotgun
