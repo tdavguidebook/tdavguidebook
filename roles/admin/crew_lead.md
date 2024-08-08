@@ -1,6 +1,6 @@
 # Crew Lead
 
-[Apply for this position](roles/apply/crew_lead_apply.md)
+[Apply for this position](apply.md)
 
 ## Overview
 
