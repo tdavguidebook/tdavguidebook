@@ -1,5 +1,7 @@
 # The TDAV Crew
 
+![Alt_text](../guidebook/basic_eq.png)
+
 ## Academic Role Flexibility
 
 In academic settings, students often take on a diverse range of roles, providing them with a broad understanding of various production aspects. For instance, a student might manage press relations as a Press Manager, oversee sound and media operations as a Sound & Media Supervisor, or handle technical tasks such as audio engineering as an Audio Engineer (A1). This variety of roles helps students develop a versatile skill set and gain a holistic view of the production process, from administrative tasks to technical and creative responsibilities.
