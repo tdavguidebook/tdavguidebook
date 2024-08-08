@@ -1,5 +1,7 @@
 # Crew Lead
 
+[Apply for this position](apply/crew_lead.md)
+
 ## Overview
 
 ### Description
