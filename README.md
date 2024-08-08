@@ -1,7 +1,5 @@
 ![Alt_text](xlr_icon.png)
 
-<img src="xlr_icon.png" alt="xlr icon width="400" />
-
 # The Theatre and Dance AV Guidebook
 Welcome to the TDAV Guidebook! Here you will find course curriculum designed especially for the NMU Sound & Engineering Program.
 
