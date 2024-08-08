@@ -29,21 +29,6 @@ Please submit a one-page cover letter detailing your relevant experience for the
 2. **Key Skills**: Demonstrate your ability to handle media interactions, coordinate press coverage, and manage press materials.
 
 3. **Alignment with Responsibilities**: Explain how your skills and experience align with the specific responsibilities of the Press Manager role.
-
-### Workflow Diagram
-
-<div style="display: flex; align-items: center; justify-content: center; font-family: Arial, sans-serif; color: #f0f0f0; background-color: #333; padding: 20px; border-radius: 10px;">
-    <div style="text-align: center; padding: 10px; border: 1px solid #555; border-radius: 5px; background-color: #444; color: #f0f0f0;">
-        <strong>Setup</strong>
-    </div>
-    <div style="margin: 0 20px; color: #f0f0f0;">
-        <strong>&rarr;</strong>
-    </div>
-    <div style="text-align: center; padding: 10px; border: 1px solid #555; border-radius: 5px; background-color: #444; color: #f0f0f0;">
-        <strong>Placement</strong>
-    </div>
-    <div style="margin: 0 20px; color: #f0f0f0;">
-        <strong>&rarr;</strong>
     </div>
     <div style="text-align: center; padding: 10px; border: 1px solid #555; border-radius: 5px; background-color: #444; color: #f0f0f0;">
         <strong>Test</strong>
