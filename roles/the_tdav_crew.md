@@ -1,6 +1,6 @@
 # The TDAV Crew
 
-![Alt_text](../guidebook/basic_eq.png)
+![Alt_text](basic_eq.png)
 
 ## Academic Role Flexibility
 
