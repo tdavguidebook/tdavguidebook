@@ -52,7 +52,7 @@ In my experience, these sites often feature irrelevant postings and may hinder g
 
 ### Formatting
 
-Use a simple format to ensure readability and compatibility with Applicant Tracking Systems (ATS). Avoid fancy fonts, columns, and icons.
+Use a simple format to ensure readability and compatibility with [Applicant Tracking Systems (ATS](../resources/lexicon/ats_define.md). Avoid fancy fonts, columns, and icons.
 
 ### Resume Example
 
