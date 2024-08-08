@@ -20,7 +20,25 @@ Assists the A1 engineer by handling microphones, setting up and managing audio e
 ## Workflow 4.1.2: Miking a 4-Piece Drum Kit
 
 Learning to mic a drum kit is a great place to start learning the various microphone types and placements.
+### Workflow Diagram
 
+<div style="display: flex; align-items: center; justify-content: center; font-family: Arial, sans-serif;">
+    <div style="text-align: center; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
+        <strong>Setup</strong>
+    </div>
+    <div style="margin: 0 20px;">
+        <strong>&rarr;</strong>
+    </div>
+    <div style="text-align: center; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
+        <strong>Placement</strong>
+    </div>
+    <div style="margin: 0 20px;">
+        <strong>&rarr;</strong>
+    </div>
+    <div style="text-align: center; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
+        <strong>Test</strong>
+    </div>
+</div>
 ### Suggested Equipment
 
 - **Drum Kit**: With throne, rug, riser, drumsticks
