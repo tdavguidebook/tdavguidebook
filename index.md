@@ -6,18 +6,18 @@
 ## Roles
 ### Administrators
 - [Sound & Media Supervisor](roles/admin/sound_and_media_supervisor.md)
-- [Crew Lead]
-- [Press Manager]
+- [Crew Lead](roles/admin/crew_lead.md)
+- [Press Manager](roles/admin/press_manager.md)
 ### Designers
 - Sound Designer
 - Media Designer
 ### Engineers
-- Audio Engineer "A1"
-- Media Engineer "M1"
-- Video Engineer "V1"
+- [Audio Engineer `A1`](roles/engineers/audio_engineer.md)
+- [Media Engineer `M1`](roles/engineers/media_engineer.md)
+- [Video Engineer `V1`](roles/engineers/video_engineer.md)
 ### Technicians
-- Audio Technician "A2"
-- Media Technician "M2"
+- [Audio Technician `A2`](roles/technicians/audio_technician.md)
+- Media Technician
 - Camera Operator "Op1, Op2, Op3"
 ### Support
 - Stage Hand
