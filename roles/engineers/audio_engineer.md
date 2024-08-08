@@ -156,6 +156,8 @@ EQ (Equalization) is the process of adjusting the balance between frequency comp
 - The High Cut filter is often part of the EQ section but should be considered as part of the Bandpass Filter for a more refined approach.
 - Use your ears and adjust settings as needed for the specific sound and context.
 
+![Alt_text](https://docs.google.com/drawings/d/e/2PACX-1vTYLHDOce56F4toOjtqL07N_n-uwVZ2Da9bC2J6fxm-K4_oC3yFu9eALW6fCnqXl-RKyeNohzLc-0GS/pub?w=1440&h=1080)
+
 ## Dynamics
 
 ### What are Dynamics?
