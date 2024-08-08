@@ -1,5 +1,5 @@
 # index
-## info
+## info [go to this folder](nmutdav/guidebook/info)
 [Overview](info/overview.md)
 
 [Syllabus](info/syllabus.md)
