@@ -99,52 +99,19 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
    - Deliver the file to the Press Manager, either by handoff or online.
 ---
 ## Workflow 3.1.2
-### Gain Stage
-
-1. **Have the Musician Play**
-   - Have the musician play their instrument at a healthy forte (loud) dynamic.
-
-2. **Set Fader to 0dB**
-   - Set the fader to 0dB.
-
-3. **Adjust Gain**
-   - Slowly increase the gain from -∞ until the audio meters read an average peak between -18dB and -6dB.
-   - The sound should be full and loud but not overpowering or causing unwanted distortion.
-
-4. **Importance**
-   - This step is crucial for ensuring that your signal has enough presence for plugins and effects to work properly without risking distortion or clipping later on.
+### 1. Gain Stage
+Have the musician play their instrument at a healthy forte (loud) dynamic. Slowly increase the gain from -∞ until the audio meters read an average peak between -18dB and -6dB. The sound should be full and loud but not overpowering or causing unwanted distortion. This step is crucial for ensuring that your signal has enough presence for plugins and effects to work properly without risking distortion or clipping later on.
 
 ### Bandpass Filter & EQ (Equalization)
-
 *What is EQ?* EQ (Equalization) is the process of adjusting the balance between frequency components within an audio signal.
 
-### Filtering & EQ
-- The order of applying filters and EQ is important. Handling low frequencies earlier in the process can avoid the need for drastic adjustments later.
-- The High Cut filter is often part of the EQ section but should be considered as part of the Bandpass Filter for a more refined approach.
-- Use your ears and adjust settings as needed for the specific sound and context.
+The order of applying filters and EQ is important. Handling low frequencies earlier in the process can avoid the need for drastic adjustments later. The High Cut filter is often part of the EQ section but should be considered as part of the Bandpass Filter for a more refined approach. Use your ears and adjust settings as needed for the specific sound and context.
 
-1. **Low Cut (High Pass) Filter**
-   - **Start**: Set the Low Cut (High Pass) filter at 30Hz for bass instruments.
-   - **Adjust**: Gradually increase it up to around 250Hz, depending on the range of the instrument, voice, or sound effect.
-   - **Purpose**: Helps eliminate unwanted low frequencies and provides clarity, reducing the need for further adjustments to high frequencies.
-
-2. **High Cut (Low Pass) Filter**
-   - **Start**: Set the High Cut (Low Pass) filter initially at 18kHz.
-   - **Adjust**: Lower it to around 5kHz as needed.
-   - **Purpose**: Helps eliminate unwanted high frequencies, avoids clashes between high-frequency and low-frequency instruments, provides more headroom, and reduces feedback and resonant issues.
-
-3. **Adjust Lows**
-   - Shape the low-end to ensure clarity and impact.
-   - Typically boost frequencies right before the low cut starts using a shelf.
-
-4. **Adjust Highs**
-   - Enhance or reduce high-frequency content.
-   - Typically boost frequencies right before the high cut starts using a shelf.
-
-5. **Adjust Mids**
-   - Fine-tune mid-range frequencies to balance the mix.
-   - Use subtle bands to help bring out the voice's characteristic tone.
-
+1. Low Cut (High Pass) Filter: Set the Low Cut (High Pass) filter at 30Hz for bass instruments. Gradually increase it up to around 250Hz, depending on the range of the instrument, voice, or sound effect. This helps eliminate unwanted low frequencies and provides clarity, reducing the need for further adjustments to high frequencies.
+2. **High Cut (Low Pass) Filter** Set the High Cut (Low Pass) filter initially at 18kHz. Lower it to around 5kHz as needed. This helps eliminate unwanted high frequencies, avoids clashes between high-frequency and low-frequency instruments, provides more headroom, and reduces feedback and resonant issues.
+3. **Adjust Lows** Shape the low-end to ensure clarity and impact. I typically boost frequencies right before the low cut starts using a shelf.
+4. **Adjust Highs** Enhance or reduce high-frequency content. I typically boost frequencies right before the high cut starts using a shelf.
+5. **Adjust Mids** Fine-tune mid-range frequencies to balance the mix. Use subtle bands to help bring out the voice's characteristic tone.
 6. **Notch Out Problem Frequencies**
    - Eliminate unwanted resonances or feedback using narrow bands or steep notches.
    - A Graphic EQ is best for this purpose.
@@ -157,29 +124,17 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
 *What are Dynamics?* Dynamics refer to the variations in loudness and the overall range of audio signals. They are managed using various tools and settings to ensure audio levels are consistent and balanced.
 
 ### Compressor
-
-- **Control the Dynamic Range**: A compressor controls the dynamic range of audio signals to ensure consistent audio levels and avoid distortion or unwanted variations.
-
-  - **Input Gain**: Adjust the input loudness to optimize the compressor’s effect.
-  
-  - **Threshold**: Determine the level at which compression starts. Signals above this level will be compressed.
-  
-  - **Attack**: Adjust how quickly the compressor responds to incoming signals once they exceed the threshold.
-  
-  - **Decay**: Set how quickly the compressor returns to normal after the signal drops below the threshold.
-  
-  - **Output Gain**: Adjust the final level after compression to ensure the output level matches the desired volume.
+A compressor controls the dynamic range of audio signals to ensure consistent audio levels and avoid distortion or unwanted variations.
+1. **Input Gain**: Adjust the input loudness to optimize the compressor’s effect.
+2. **Threshold**: Determine the level at which compression starts. Signals above this level will be compressed.
+3. **Attack**: Adjust how quickly the compressor responds to incoming signals once they exceed the threshold.
+4. **Decay**: Set how quickly the compressor returns to normal after the signal drops below the threshold.
+5. **Output Gain**: Adjust the final level after compression to ensure the output level matches the desired volume.
 
 ### Sends
-
-#### Aux Sends
-- Adjust how much signal from this channel will be sent to the respective mix group or plugin, allowing for effects processing and routing.
-
-#### Panning
-- Position audio sources in the stereo field (Left vs Right) to create a sense of space and dimension in the mix.
-
-#### Fader
-- Adjust the overall volume level of each channel to balance the mix and ensure all elements are appropriately heard.
+- **Aux Sends:** Adjust how much signal from this channel will be sent to the respective mix group or plugin, allowing for effects processing and routing.
+- **Pan:** Position audio sources in the stereo field (Left vs Right) to create a sense of space and dimension in the mix.
+- **Fader:** Adjust the overall volume level of each channel to balance the mix and ensure all elements are appropriately heard.
 ---
 ## Suggestions for Advancement
 
