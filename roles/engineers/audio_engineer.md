@@ -98,7 +98,7 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
 2. **Deliver the File**
    - Deliver the file to the Press Manager, either by handoff or online.
 
-# Gain Stage
+## Gain Stage
 
 1. **Have the Musician Play**
    - Have the musician play their instrument at a healthy forte (loud) dynamic.
@@ -115,7 +115,7 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
 
 ---
 
-# Bandpass Filter & EQ (Equalization)
+## Bandpass Filter & EQ (Equalization)
 
 ### What is EQ?
 
@@ -123,29 +123,29 @@ EQ (Equalization) is the process of adjusting the balance between frequency comp
 
 ### Filtering & EQ Process
 
-**1. Low Cut (High Pass) Filter**
+1. **Low Cut (High Pass) Filter**
    - **Start**: Set the Low Cut (High Pass) filter at 30Hz for bass instruments.
    - **Adjust**: Gradually increase it up to around 250Hz, depending on the range of the instrument, voice, or sound effect.
    - **Purpose**: Helps eliminate unwanted low frequencies and provides clarity, reducing the need for further adjustments to high frequencies.
 
-**2. High Cut (Low Pass) Filter**
+2. **High Cut (Low Pass) Filter**
    - **Start**: Set the High Cut (Low Pass) filter initially at 18kHz.
    - **Adjust**: Lower it to around 5kHz as needed.
    - **Purpose**: Helps eliminate unwanted high frequencies, avoids clashes between high-frequency and low-frequency instruments, provides more headroom, and reduces feedback and resonant issues.
 
-**3. Adjust Lows**
+3. **Adjust Lows**
    - Shape the low-end to ensure clarity and impact.
    - Typically boost frequencies right before the low cut starts using a shelf.
 
-**4. Adjust Highs**
+4. **Adjust Highs**
    - Enhance or reduce high-frequency content.
    - Typically boost frequencies right before the high cut starts using a shelf.
 
-**5. Adjust Mids**
+5. **Adjust Mids**
    - Fine-tune mid-range frequencies to balance the mix.
    - Use subtle bands to help bring out the voice's characteristic tone.
 
-**6. Notch Out Problem Frequencies**
+6. **Notch Out Problem Frequencies**
    - Eliminate unwanted resonances or feedback using narrow bands or steep notches.
    - A Graphic EQ is best for this purpose.
    - Be careful not to create a strange combing effect.
@@ -156,7 +156,7 @@ EQ (Equalization) is the process of adjusting the balance between frequency comp
 - The High Cut filter is often part of the EQ section but should be considered as part of the Bandpass Filter for a more refined approach.
 - Use your ears and adjust settings as needed for the specific sound and context.
 
-# 3. Dynamics
+## Dynamics
 
 ### What are Dynamics?
 
@@ -178,7 +178,7 @@ Dynamics refer to the variations in loudness and the overall range of audio sign
 
 ---
 
-# 4. Sends
+## Sends
 
 ### Aux Sends
 
@@ -194,7 +194,7 @@ Dynamics refer to the variations in loudness and the overall range of audio sign
 
 ---
 
-# Suggestions for Advancement
+## Suggestions for Advancement
 
 Once you feel comfortable with the above content, you may want to start researching the following items:
 
