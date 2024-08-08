@@ -5,10 +5,28 @@ Welcome to the Northern Michigan University Theatre and Dance Audio-Visual Progr
 Our program is designed around internal standardizations that align with industry best practices. It features specialized roles, each supported by a personalized, in-depth curriculum. Centralized resources, accessible through this Guidebook, facilitate comprehensive learning. Additionally, our structured team environment allows members to explore and experience a variety of roles, enhancing their versatility and expertise.
 ### A Workflow Based Curriculum
 Our theatre AV course is designed to immerse students in hands-on workflows rather than traditional academic study of isolated topics and terms. By focusing on practical application, students engage directly with the equipment, techniques, and processes that drive live performance, fostering a deeper understanding through real-world experience. However, students who wish to delve deeper into theory are encouraged to do so; ample resources will be made available to support their exploration. This balanced approach allows learners to develop their skills both practically and theoretically, adapting to the dynamic demands of the theatrical environment.
-## Why is this Guidebook Online?
+## Why Is This Guidebook on GitHub?
+
 ### Non-Linear Learning
-Learning isn't always as straightforward as it might seem, particularly in the AV curriculum. You may find yourself navigating between chapters or diving into unexpected areas to gain a clearer picture. This guidebook is organized around roles and their respective workflows rather than following a strict chapter sequence. As students engage with the material both as a group and individually within their specific roles, the structure is intentionally non-linear. This approach not only accommodates various learning paces and focuses but also encourages exploration of related topics—often leading students down interesting rabbit holes. Such exploration supports a deeper, more comprehensive understanding and mirrors the real-world process of discovering interconnected concepts and solving complex problems.
-### Centralized Course Content
-The Guidebook is available online to improve accessibility and streamline the delivery of course materials. By digitizing the Guidebook, students can easily access comprehensive online manuals and tutorials, reflecting the digital nature of our field. This format offers several benefits, including support for text-to-speech services, adjustable text sizes, and direct links to external resources like video tutorials. It also allows instructors to concentrate on foundational concepts during class while students explore the more intricate aspects of their roles through the online content. The Guidebook acts as a centralized hub for essential resources, providing a solid foundation for the standards and practices of the Theatre and Dance Audio-Visual program.
+
+Learning in the AV curriculum often involves navigating various topics and sections to build a comprehensive understanding. This guidebook is structured around roles and workflows rather than a linear chapter sequence, reflecting the non-linear nature of real-world learning. This approach supports diverse learning styles and paces, encouraging exploration and a deeper understanding of interconnected concepts.
+
+### Centralized and Collaborative Access
+
+Hosting the Guidebook on GitHub offers several key advantages:
+
+- **Version Control**: GitHub supports version control, allowing for easy updates and ensuring that the content remains current and accurate.
+- **Collaborative Input**: Students and instructors can contribute improvements, share insights, and provide feedback directly on the platform.
+
+GitHub enhances accessibility through features like:
+
+- **Text-to-Speech Support**: Facilitates engagement with the material.
+- **Adjustable Text Sizes**: Customizes the reading experience.
+- **Integration with External Resources**: Links to video tutorials and additional readings.
+
+The platform’s tools for issue tracking and project management facilitate continuous improvement, making it easier to address feedback and adapt the Guidebook based on evolving curriculum needs.
+
+GitHub’s tools and integrations also foster a dynamic and interactive learning environment. Whether through GitHub Pages for a user-friendly interface or other features, the Guidebook is designed to support both individual exploration and collaborative learning. This centralized and adaptable approach aligns with the digital nature of the Theatre and Dance Audio-Visual program and supports ongoing educational growth.
+
 ## A Work in Progress
 This guidebook will be updated at the end of each term to address the evolving needs of the program and the ever-changing landscape of AV technologies and technical theatre practices. Additionally, I would like to include a second part to the guidebook on Creative Sound & Media Design, but for its first entry the guidebook’s focus should be building up the TDAV Crew. A Creative Design section could easily fill its own guidebook. Though it may undergo some updates, the primary goal remains to provide a solid understanding of the various roles within the TDAV crew, foundational concepts for the AV engineer, and a comprehensive overview of the Northern Michigan University Theatre & Dance Sound & Media Program. With a resource like this, I believe the Sound & Media program will gain significant benefits and, hopefully, achieve national recognition, attracting more opportunities and students. 
