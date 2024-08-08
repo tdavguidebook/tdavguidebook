@@ -3,9 +3,9 @@
 - [Overview](info/overview.md)
 - [Syllabus](info/syllabus.md)
 - [Standards of Practice](info/standardsOfPractice.md)
-## Roles & Workflows
+## Roles
 ### Administrators
-- [Sound & Media Supervisor]
+- [Sound & Media Supervisor](roles/admin/sound_and_media_supervisor.md)
 - [Crew Lead]
 - [Press Manager]
 ### Designers
