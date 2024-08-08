@@ -117,7 +117,7 @@ The order of applying filters and EQ is important. Handling low frequencies earl
    - A Graphic EQ is best for this purpose.
    - Be careful not to create a strange combing effect.
 
-![Alt_text](https://github.com/nmutdav/guidebook/blob/31ca1e14afec834bb64df233547d0af66cf5ecd0/basic_eq.png)
+![Alt_text](https://docs.google.com/drawings/d/e/2PACX-1vTYLHDOce56F4toOjtqL07N_n-uwVZ2Da9bC2J6fxm-K4_oC3yFu9eALW6fCnqXl-RKyeNohzLc-0GS/pub?w=1440&h=1080)
 
 ### Dynamics
 
