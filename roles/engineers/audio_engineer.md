@@ -150,7 +150,7 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
    - A Graphic EQ is best for this purpose.
    - Be careful not to create a strange combing effect.
 
-![Alt_text](basic_eq.png)
+![Alt_text](..guidebook/basic_eq.png)
 
 ### Dynamics
 
