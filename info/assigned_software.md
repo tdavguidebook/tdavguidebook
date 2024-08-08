@@ -1,0 +1,10 @@
+# Assigned Software
+- Instant Message: [Whats.app](https://www.whatsapp.com/)
+- Visual Tutorials & Media Design: [Processing IDE](https://processing.org)
+- Sound Design: [MAX msp](https://cycling74.com) and [Reaper](https://www.reaper.fm)
+- Audio Editing: [Reaper](https://www.reaper.fm)
+- Video Editing: [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- Photo Editing: [Darktable](https://darktable.org)
+- Media Playback: [QLab](https://qlab.app)
+- Live Streaming: [OBS](https://www.obsproject.com)
+- AV Networking: [Dante Controller, Dante Virtual Sound Card, Dante Via](https://www.audinate.com)

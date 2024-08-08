@@ -18,7 +18,7 @@ Course grading is based on the performance of AV duties during assigned theatre 
 - D (60% - 69%): Below-average performance; duties were performed poorly, with notable deficiencies.
 - F (0% - 59%): Unsatisfactory performance; failed to meet basic requirements and/or was frequently absent.
 ## Required Equipment
-- MacBook Laptop Computer with the assigned software and accounts configured.
+- MacBook Laptop Computer with the [assigned software](assigned_software.md) and accounts configured
 - Monitoring Headphones
 - Small Flashlight
 - Mobile Phone

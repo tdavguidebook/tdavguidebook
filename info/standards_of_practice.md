@@ -36,14 +36,7 @@ By specifying which software’s the crew uses, it will be easier to teach, comm
 It is also ideal if incoming clients are aware of what software and versions we use, so they may prepare their materials accordingly. Administrators should definetly give clients the heads up on this prior to a tech or rehearsal.
 
 For the most part, except for QLab, we are using softwares that are availble across the various operating systems including MacOs, Linux, Windows, and Ubuntu. I also aim to choose free and/or open source softwares as much as possible.
-
-- Instant Message: [Whats.app](https://www.whatsapp.com/)
-- Audio Editing: [Reaper](https://www.reaper.fm)
-- Video Editing: [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-- Photo Editing: [Darktable](https://darktable.org)
-- Media Playback: [QLab](https://qlab.app)
-- Live Streaming: [OBS](https://www.obsproject.com)
-- AV Networking: [Dante Controller, Dante Virtual Sound Card, Dante Via](https://www.audinate.com)
+[Go to Assigned Software](assigned_software.md)
 ## Naming Folders and Files
 - **Master Folder**: 
   - Format: `[YYMMDD] NMU [Event]`
