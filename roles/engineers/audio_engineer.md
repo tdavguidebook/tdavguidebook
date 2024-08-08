@@ -97,8 +97,9 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
 
 2. **Deliver the File**
    - Deliver the file to the Press Manager, either by handoff or online.
-
-## Gain Stage
+---
+## Workflow 3.1.2
+### Gain Stage
 
 1. **Have the Musician Play**
    - Have the musician play their instrument at a healthy forte (loud) dynamic.
@@ -113,15 +114,14 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
 4. **Importance**
    - This step is crucial for ensuring that your signal has enough presence for plugins and effects to work properly without risking distortion or clipping later on.
 
----
+### Bandpass Filter & EQ (Equalization)
 
-## Bandpass Filter & EQ (Equalization)
+*What is EQ?* EQ (Equalization) is the process of adjusting the balance between frequency components within an audio signal.
 
-### What is EQ?
-
-EQ (Equalization) is the process of adjusting the balance between frequency components within an audio signal.
-
-### Filtering & EQ Process
+### Filtering & EQ
+- The order of applying filters and EQ is important. Handling low frequencies earlier in the process can avoid the need for drastic adjustments later.
+- The High Cut filter is often part of the EQ section but should be considered as part of the Bandpass Filter for a more refined approach.
+- Use your ears and adjust settings as needed for the specific sound and context.
 
 1. **Low Cut (High Pass) Filter**
    - **Start**: Set the Low Cut (High Pass) filter at 30Hz for bass instruments.
@@ -150,19 +150,11 @@ EQ (Equalization) is the process of adjusting the balance between frequency comp
    - A Graphic EQ is best for this purpose.
    - Be careful not to create a strange combing effect.
 
-### Notes
-
-- The order of applying filters and EQ is important. Handling low frequencies earlier in the process can avoid the need for drastic adjustments later.
-- The High Cut filter is often part of the EQ section but should be considered as part of the Bandpass Filter for a more refined approach.
-- Use your ears and adjust settings as needed for the specific sound and context.
-
 ![Alt_text](https://docs.google.com/drawings/d/e/2PACX-1vTYLHDOce56F4toOjtqL07N_n-uwVZ2Da9bC2J6fxm-K4_oC3yFu9eALW6fCnqXl-RKyeNohzLc-0GS/pub?w=1440&h=1080)
 
-## Dynamics
+### Dynamics
 
-### What are Dynamics?
-
-Dynamics refer to the variations in loudness and the overall range of audio signals. They are managed using various tools and settings to ensure audio levels are consistent and balanced.
+*What are Dynamics?* Dynamics refer to the variations in loudness and the overall range of audio signals. They are managed using various tools and settings to ensure audio levels are consistent and balanced.
 
 ### Compressor
 
@@ -178,24 +170,17 @@ Dynamics refer to the variations in loudness and the overall range of audio sign
   
   - **Output Gain**: Adjust the final level after compression to ensure the output level matches the desired volume.
 
+### Sends
+
+#### Aux Sends
+- Adjust how much signal from this channel will be sent to the respective mix group or plugin, allowing for effects processing and routing.
+
+#### Panning
+- Position audio sources in the stereo field (Left vs Right) to create a sense of space and dimension in the mix.
+
+#### Fader
+- Adjust the overall volume level of each channel to balance the mix and ensure all elements are appropriately heard.
 ---
-
-## Sends
-
-### Aux Sends
-
-- **Aux Sends**: Adjust how much signal from this channel will be sent to the respective mix group or plugin, allowing for effects processing and routing.
-
-### Panning
-
-- **Panning**: Position audio sources in the stereo field (Left vs Right) to create a sense of space and dimension in the mix.
-
-### Fader
-
-- **Fader**: Adjust the overall volume level of each channel to balance the mix and ensure all elements are appropriately heard.
-
----
-
 ## Suggestions for Advancement
 
 Once you feel comfortable with the above content, you may want to start researching the following items:
