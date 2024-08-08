@@ -1,7 +1,7 @@
 [return to index](../../index.md)
 # Crew Lead
 
-[Apply for this position](apply.md)
+[apply for this position](../apply/crew_lead_apply.md)
 
 ## Overview
 

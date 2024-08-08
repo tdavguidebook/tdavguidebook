@@ -7,7 +7,7 @@
 ### Administrators
 - [Sound & Media Supervisor](roles/admin/sound_and_media_supervisor.md)
 - [Crew Lead](roles/admin/crew_lead.md)
-- Press Manager
+- [Press Manager](roles/admin/press_manager.md)
 ### Designers
 - Sound Designer
 - Media Designer
