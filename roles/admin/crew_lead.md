@@ -1,6 +1,6 @@
 # Crew Lead
 
-[Apply for this position](guidebook/roles&workflows/apply/crew_lead_apply.md)
+[Apply for this position](crew_lead_apply.md)
 
 ## Overview
 
