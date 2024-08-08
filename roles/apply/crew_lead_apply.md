@@ -1,4 +1,4 @@
-#### Crew Lead Application
+# Crew Lead Application
 
 **Position Summary:**
 
