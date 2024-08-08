@@ -33,7 +33,7 @@
 - TDAV Showcase
 - [Digital Theatre+](https://www.digitaltheatreplus.com)
 - Manual Annex
-- Careers
+- [Careers](resources/careers.md)
 - [Marquette Sound Library](https://github.com/nmutdav/soundlibrary)
 - For the Creative
 - Work Life Balance
