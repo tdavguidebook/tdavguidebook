@@ -1,6 +1,8 @@
 # Crew Lead
 
-[Apply for this position](guidebook/roles/apply/crew_lead_apply.md)
+[Apply for this position]
+
+[Go to Root](roles/apply)
 
 ## Overview
 
