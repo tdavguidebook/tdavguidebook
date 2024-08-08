@@ -1,3 +1,4 @@
+[return to index](../index.md)
 # Overview
 ## Introduction
 Welcome to the Northern Michigan University Theatre and Dance Audio-Visual Program. We extend our warmest greetings to you as you embark on this journey with us. Our esteemed program is committed to excellence in providing comprehensive training and hands-on experience in advanced audio and visual technologies. Here, you will have the opportunity to engage with cutting-edge techniques and contribute to the high standards of theatrical and dance productions. We are dedicated to fostering a scholarly and innovative environment that supports both artistic and technical development. We look forward to your participation and contributions to our distinguished program.

@@ -1,33 +1,25 @@
+[return to index](../../index.md)
 # Audio Engineer `A1`
+## Role Overview
 
-## Overview
-
-### Description
-
-Operates the sound system during performances, including mixing audio and playing back samples and pre-recorded music.
-
-### Location
-
-- Front of House
-
-### Equipment
-
-- **Mixing Console**: DiGiCo SD12 or similar
-- **Monitoring Headphones**
-- **Computer**: Mac Studio or similar
-- **Dante Software**: Dante Via, Dante Controller, Dante Virtual Soundcard
-- **Song Library**: Spotify or similar
-- **QLab**: Most up-to-date version
-- **Digital Audio Workstation (DAW)**: ProTools, Reaper, Ableton Live, or similar
+1. **Description:** Operates the sound system during performances, including mixing audio and playing back samples and pre-recorded music.
+2. **Location:** Front of House
+3. **Equipment:**
+   - **Mixing Console**: DiGiCo SD12 or similar
+   - **Monitoring Headphones**
+   - **Computer**: Mac Studio or similar
+   - **Dante Software**: Dante Via, Dante Controller, Dante Virtual Soundcard
+   - **Song Library**: Spotify or similar
+   - **QLab**: Most up-to-date version
+   - **Digital Audio Workstation (DAW)**: ProTools, Reaper, Ableton Live, or similar
 
 ## Workflow 3.1.1: QLab Audio
+*[What is QLab?](https://qlab.app/overview)*
 
-### What is QLab?
+Worklow Summary:`Setup`➠`Create`➠`Playback`
 
-QLab is a software application for macOS that allows you to design and run complex audio, video, and lighting cues.
-
-### Setup
-
+### `Setup`
+**
 1. **Create a New Workspace**
    - Go to `File` > `New Workspace`.
 
@@ -38,7 +30,7 @@ QLab is a software application for macOS that allows you to design and run compl
    - Go to `File` > `Save Project As...`
    - Save workspace and media to a new project folder, e.g., `Documents` > `[YYYY] Show Files` > `[YYMMDD Event]`.
 
-### Create
+### `Create`
 
 1. **Add an Audio Cue**
    - Click the `+` button and choose `Audio` from the list.
@@ -50,7 +42,7 @@ QLab is a software application for macOS that allows you to design and run compl
 3. **Create Sequences**
    - Group related cues together by selecting them and choosing `Group` from the context menu.
 
-### Playback
+### `Playback`
 
 1. **Start Playback**
    - Use the `Go` button to start playback of cues and sequences.
@@ -99,6 +91,7 @@ A Digital Audio Workstation (DAW) is software used for recording, editing, mixin
    - Deliver the file to the Press Manager, either by handoff or online.
 ---
 ## Workflow 3.1.2
+workflow summary: `Gain`➠`Filter`➠`EQ`➠`Compress`➠`Send`
 ### 1. Gain Stage
 Have the musician play their instrument at a healthy forte (loud) dynamic. Slowly increase the gain from -∞ until the audio meters read an average peak between -18dB and -6dB. The sound should be full and loud but not overpowering or causing unwanted distortion. This step is crucial for ensuring that your signal has enough presence for plugins and effects to work properly without risking distortion or clipping later on.
 

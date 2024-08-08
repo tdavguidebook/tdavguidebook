@@ -2,12 +2,12 @@
 ## Info
 - [Overview](info/overview.md)
 - [Syllabus](info/syllabus.md)
-- [Standards of Practice](info/standardsOfPractice.md)
+- [Standards of Practice](info/standards_of_practice.md)
 ## Roles
 ### Administrators
 - [Sound & Media Supervisor](roles/admin/sound_and_media_supervisor.md)
 - [Crew Lead](roles/admin/crew_lead.md)
-- [Press Manager](roles/admin/press_manager.md)
+- Press Manager
 ### Designers
 - Sound Designer
 - Media Designer
@@ -26,12 +26,12 @@
 - Photo Editor
 - Video Editor
 ## Lexicon
-### Terminology
-### Hardware
-### Software
+- Terminology
+- Hardware
+- Software
 ## Resources
 - TDAV Showcase
-- Digital Theatre+
+- [Digital Theatre+](https://www.digitaltheatreplus.com)
 - Manual Annex
 - Careers
 - TDAV Sample Library
