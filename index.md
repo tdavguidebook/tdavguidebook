@@ -3,7 +3,6 @@
 - [Overview](info/overview.md)
   
   *[Introduction](info/overview.md#introduction)*
-  *[Why is this Guidebook on GitHub?](info/overview.md#whyisthisguidebookongithub?)*
 - [Syllabus](info/syllabus.md)
 - [Standards of Practice](info/standardsOfPractice.md)
 ## Roles
