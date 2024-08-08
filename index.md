@@ -1,10 +1,10 @@
 # index
 ## info
-[Overview](overview.md)
+[Overview](info/overview.md)
 
-[Syllabus](syllabus.md)
+[Syllabus](info/syllabus.md)
 
-[Standards of Practice](standardsOfPractice.md)
+[Standards of Practice](info/standardsOfPractice.md)
 
 ## roles
 
