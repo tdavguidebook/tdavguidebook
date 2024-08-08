@@ -1,8 +1,4 @@
-# Northern Michigan University
-## Department of Theatre & Dance
-
-### TDAV Crew
-#### Crew Lead
+#### Crew Lead Application
 
 **Position Summary:**
 
