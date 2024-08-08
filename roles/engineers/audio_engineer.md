@@ -123,7 +123,7 @@ The order of applying filters and EQ is important. Handling low frequencies earl
 
 *What are Dynamics?* Dynamics refer to the variations in loudness and the overall range of audio signals. They are managed using various tools and settings to ensure audio levels are consistent and balanced.
 
-### Compressor
+#### Compressor
 A compressor controls the dynamic range of audio signals to ensure consistent audio levels and avoid distortion or unwanted variations.
 1. **Input Gain**: Adjust the input loudness to optimize the compressor’s effect.
 2. **Threshold**: Determine the level at which compression starts. Signals above this level will be compressed.
