@@ -137,5 +137,7 @@ To the Hiring Committee,
 ...
 
 Sincerely,
+
 <br>
+
 [Your Name]
