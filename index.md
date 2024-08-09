@@ -19,16 +19,16 @@
 - [Video Engineer `V1`](roles/engineers/video_engineer.md)
 ### Technicians
 - [Audio Technician `A2`](roles/technicians/audio_technician.md)
-- Media Technician
-- Camera Operator "Op1, Op2, Op3"
+- [Media Technician `M2`](roles/technicians/media_technician.md)
+- [Camera Operator `Op1, Op2, Op3`](roles/technicians/camera_operator.md)
 ### Support
 - [Stage Hand](roles/support/stage_hand.md)
 ### Press
-- Photo Journalist
+- [Photo Journalist](roles/press/photo_journalist.md)
 - [Photo Editor](roles/press/photo_editor.md)
-- Video Editor
+- [Video Editor](roles/press/video_editor.md)
 ## Lexicon
-- Terminology
+- [Terminology](resources/lexicon/terminology.md)
 - Hardware
 - Software
 ## Resources

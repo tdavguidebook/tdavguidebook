@@ -1,3 +1,3 @@
-[return to careers](../careers.md)
+[return to index](../../../index.md)
 # What is ATS?
 ATS stands for Applicant Tracking System. It's a software application used by employers to manage the hiring process. ATS helps with job postings, application management, resume screening, and candidate tracking. It automates many aspects of recruiting, such as sorting resumes, tracking applicant progress, and scheduling interviews, which can save time and streamline the hiring process. If you're applying for jobs, it's a good idea to tailor your resume to include relevant keywords, as many ATS use algorithms to filter applications based on the content of your resume.
