@@ -1,5 +1,5 @@
-[README](README.md)
 # Index
+[home](README.md)
 ## Info
 - [Overview](info/overview.md)
 - [Syllabus](info/syllabus.md)
