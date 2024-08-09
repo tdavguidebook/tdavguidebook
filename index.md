@@ -1,5 +1,6 @@
 # Index
 [home repo](https://github.com/nmutdav/guidebook)
+
 ## Info
 - [Overview](info/overview.md)
 - [Syllabus](info/syllabus.md)
