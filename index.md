@@ -40,3 +40,5 @@
 - [Marquette Sound Library](https://github.com/nmutdav/soundlibrary)
 - For the Creative
 - Work Life Balance
+
+<small>Privacy & Copyright Notice: This guidebook is publicly accessible and does not store or share any sensitive information. All content is copyright-free, reflecting our commitment to the belief that knowledge should be freely available. Your privacy and the free exchange of ideas are our priorities.
