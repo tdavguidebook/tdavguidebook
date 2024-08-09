@@ -64,3 +64,12 @@ As the liaison between the supervisor and the crew, the Crew Lead is responsible
 
 - Ensure all AV equipment is used safely and according to guidelines.
 - Monitor work practices to prevent accidents and equipment damage.
+
+`YYMMDD NMU [Event] - TDAV`
+|Item|description|
+|---|---|
+row 1
+row 3
+row 4
+row 5
+row 6

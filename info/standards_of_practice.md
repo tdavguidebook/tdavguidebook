@@ -2,13 +2,15 @@
 # Standards of Practice
 ## Communication
 Effective communication is essential for the proper and safe execution of duties. All communication between students and staff must be prompt and professional. Accommodations will be made if students wish to keep their contact information private from the team, but it is ideal if the Sound & Media Supervisor and the Crew Lead have everyone’s contact information.
+
+As crew sizes increase and roles become more specialized, communication between team members should be more localized and independent. This approach allows everyone to focus on their tasks with minimal confusion caused by conflicting opinions or misunderstood directions. i.e. a Stage Hand setting up microphones will refer to the Audio Technician’s instructions prior to asking the Audio Engineer, and will certainly not refer to the Press Manager for directions since their tasks and priorities lie with the Post Production Team. [The TDAV Crew diagram](../assets/tdav_crew.jpg) is a good way to visualize this flow of communication.
+
 - **Verbal** – Self-explanatory
 - **Phone Call/Text Message** – Ideal for checking on team members if they are late or need immediate updates on production information.
 - **Clear Com** – During a production, team members will use a wireless intercom on the RF channel according to their roles.
 - **Group Instant Message** [Whats.app](https://www.whatsapp.com/) – For students to ask questions to the entire team, and for admin to correspond with their respective subteams. Ie. the Press manager will discuss with just the press team. This works on btoh mobile phones and computers.
 - **University Email** – For sending schedules, performance reports, course materials, and production information. Emails will generally be sent in the mornings; responses are not expected to be as immediate as with the above instant messaging formats.
-
-As crew sizes increase and roles become more specialized, communication between team members should be more localized and independent. This approach allows everyone to focus on their tasks with minimal confusion caused by conflicting opinions or misunderstood directions. i.e. a Stage Hand setting up microphones will refer to the Audio Technician’s instructions prior to asking the Audio Engineer, and will certainly not refer to the Press Manager for directions since their tasks and priorities lie with the Post Production Team. The TDAV Crew diagram is a good way to visualize this flow of communication.
+  -  **Priorities List-Serv:** There will be a group email sent out regularly, with list of priorities according to crew/individual duties.
 # Ladder Saftey Training
 All students are required to complete the following online courses from the American Ladder Institute's [Saftey Training](https://www.laddersafetytraining.org) and send a certificate of completion to the course instructor by the assigned due date:
 1. Step Ladder Safety Training

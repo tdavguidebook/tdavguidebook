@@ -1,0 +1,17 @@
+# Video Tutorials
+- **Sound & Media Supervisor**
+- **Crew Lead**
+- **Press Manager**
+- **Sound Designer**
+- **Media Designer**
+- **Audio Engineer (A1)**
+- **Media Engineer (M1)**
+- **Video Engineer (V1)**
+- **Audio Technician (A2)**
+- **Media Technician (M2)**
+- **Camera Operators (Op1, Op2, Op3)**
+    - [7 Fundamentals of Video Composition & Framing](https://www.youtube.com/watch?v=WHFrwpTr2MI)
+- **Stage Hand**
+- **Photo Journalist**
+- **Photo Editor**
+- **Video Editor**

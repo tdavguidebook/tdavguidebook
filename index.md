@@ -1,3 +1,4 @@
+[README](README.md)
 # Index
 ## Info
 - [Overview](info/overview.md)
@@ -20,16 +21,17 @@
 - Media Technician
 - Camera Operator "Op1, Op2, Op3"
 ### Support
-- Stage Hand
+- [Stage Hand](roles/support/stage_hand.md)
 ### Press
 - Photo Journalist
-- Photo Editor
+- [Photo Editor](roles/press/photo_editor.md)
 - Video Editor
 ## Lexicon
 - Terminology
 - Hardware
 - Software
 ## Resources
+- [Assigned Software](resources/assigned_software.md)
 - TDAV Showcase
 - [Digital Theatre+](https://www.digitaltheatreplus.com)
 - Manual Annex
